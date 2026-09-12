@@ -4,39 +4,53 @@ Proyecto de Primera Evaluación Práctica de la Unidad I.
 
 ## Estructura
 
-```text
-CV_Adrian_Tecnologias_Web_I/
-├── index.html
-├── css/
-│   └── styles.css
-├── js/
-│   └── script.js
-├── assets/
-│   └── images/
-│       └── perfil.svg
-└── README.md
-```
+    examenTecnoWeb/
+    ├── index.html
+    ├── css/
+    │   └── styles.css
+    ├── js/
+    │   └── script.js
+    ├── assets/
+    │   └── images/
+    │       └── [fotografía de perfil]
+    └── README.md
 
 ## Funcionalidades
 
 - HTML5 semántico.
-- Diseño responsive con CSS Grid y Flexbox.
+- Diseño responsive mediante CSS Grid y Flexbox.
 - Variables CSS mediante `:root`.
-- Modo claro/oscuro con JavaScript.
-- Persistencia del modo con `localStorage`.
-- Validación del formulario mediante JavaScript y HTML5.
-- Mensajes accesibles con `aria-live`.
-- Enlace para saltar al contenido principal.
-- Estados de foco visibles.
+- Modo claro/oscuro implementado con JavaScript.
+- Persistencia del tema seleccionado mediante `localStorage`.
+- Validación del formulario de contacto mediante JavaScript y HTML5.
+- Mensajes accesibles mediante `aria-live`.
+- Enlace para saltar directamente al contenido principal.
+- Estados de foco visibles para mejorar la navegación.
+- Adaptación para dispositivos móviles, tablets y escritorio.
 - Compatibilidad básica con impresión.
 
-## Antes de publicar
+## Tecnologías utilizadas
 
-1. Reemplazar `assets/images/perfil.svg` por una fotografía propia y actualizar el `src` en `index.html`.
-2. Revisar el correo de contacto.
-3. Colocar tu enlace real de GitHub.
-4. Probar el formulario y el cambio de tema.
-5. Probar la vista móvil.
-6. Ejecutar una validación HTML/CSS.
-7. Crear commits descriptivos en Git.
-8. Publicar con GitHub Pages.
+- HTML5
+- CSS3
+- JavaScript
+- CSS Grid
+- Flexbox
+- Git y GitHub
+- GitHub Pages
+
+## Publicación
+
+El proyecto se encuentra publicado mediante GitHub Pages.
+
+Repositorio:
+https://github.com/AdrianCald/examenTecnoWeb
+
+Sitio web:
+https://adriancald.github.io/examenTecnoWeb/
+
+## Autor
+
+**Adrián Calderón**  
+Estudiante de Ingeniería de Sistemas  
+Universidad Católica Boliviana "San Pablo"
