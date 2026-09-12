@@ -12,7 +12,7 @@ Proyecto de Primera Evaluación Práctica de la Unidad I.
     │   └── script.js
     ├── assets/
     │   └── images/
-    │       └── [fotografía de perfil]
+    │       └── foto.jpeg
     └── README.md
 
 ## Funcionalidades
